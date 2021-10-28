@@ -50,7 +50,7 @@ async def startprivate(client, message):
     joinButton = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("CHANNEL", url="NAZRIYAUPDATED"),
+                InlineKeyboardButton("CHANNEL", url="NAZRIYAUPDATES"),
                 InlineKeyboardButton(
                     "SUPPORT GROUP", url="https://t.me/NAZRIYASUPPORT"
                 ),
